@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\directory.xml",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\layout\\directory.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listmusic.xml",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\layout\\listmusic.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\desklrc.xml",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\layout\\desklrc.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\music.xml",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\layout\\music.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\folder.xml",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\layout\\folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listfolder.xml",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\layout\\listfolder.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playmusic.xml",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\layout\\playmusic.xml"
+    }
+]

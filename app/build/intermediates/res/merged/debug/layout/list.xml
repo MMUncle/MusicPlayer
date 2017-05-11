@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnPla"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:textColor="#FFA100"
+            android:textSize="25sp"
+            android:text="@string/listmusic" />
+		<View  
+    		android:layout_width="0.1dp"
+    		android:layout_height="match_parent"
+    		android:layout_gravity="center_vertical"
+    		android:background="#FFFFFF" />
+        <Button
+            android:id="@+id/btnFod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:text="@string/listfolder" />
+    </LinearLayout>
+    <View
+    	android:layout_width="match_parent"
+    	android:layout_height="1dp"
+    	android:layout_gravity="center_horizontal"
+    	android:background="#FFFFFF" />
+    
+	<android.support.v4.view.ViewPager
+	    android:id="@+id/viewpager"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center" />
+    
+</LinearLayout>

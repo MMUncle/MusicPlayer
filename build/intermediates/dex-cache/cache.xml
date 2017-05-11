@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\adt-bundle-windows-x86-20130917\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\David\Desktop\MusicPlayer\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_9a0e836c319e89261bac70e2e196e10e617158ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\MusicPlayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54fb3d199bda3a18a6db8ac475211c2fc2eec38f">
+        <dex dex="C:\Users\David\Desktop\MusicPlayer\app\build\intermediates\pre-dexed\debug\instant-run_8df3db5db450c45b58633a7d4e5f0234cc958a8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\MusicPlayer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33e2bf4c2983ad79760010c4b03b4eeb43762058">
+        <dex dex="C:\Users\David\Desktop\MusicPlayer\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_04906fe44849ad200bfae3014fe3b32625acc010.jar" />
+    </item>
+
+</items>

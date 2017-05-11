@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check1.png",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\check1.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\previous_dark.png",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\previous_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\next_dark.png",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\next_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\play_dark.png",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\play_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg.png",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check2.png",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\check2.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\album.png",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\album.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add.png",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\repeat_dark.png",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\repeat_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pause_dark.png",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\pause_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shunxu_dark.png",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\shunxu_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shuffle_dark.png",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\shuffle_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fod.png",
+        "source": "C:\\Users\\David\\Desktop\\MusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\fod.png"
+    }
+]
